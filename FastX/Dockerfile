@@ -9,8 +9,8 @@
 # Tags:             FASTA|FASTAQ|Next-Generation_sequencing
 # Provides:         FastX_Toolkit-0.0.14|libgtextutils-0.7
 # Base Image:       biodckr/FastX toolkit
-# Build Cmd:        docker build biodckrdev/vcftools 0.1.14/.
-# Run Cmd:          docker run biodckrdev/vcftools vcftools
+# Build Cmd:        docker build tarea6/fastx:v1
+# Run Cmd:          docker run -it tarea6/fastx:v1 /bin/bash
 #################################################################
 
 # Set the base image to Ubuntu
